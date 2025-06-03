@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Пользователь\Downloads\DLLInjection\DLLInjectionLinkedIn\DllInjectorAsDll\Source.cpp(8,13): warning C4101: wszBuff: неиспользованная локальная переменная
+     Создается библиотека C:\Users\Пользователь\Downloads\DLLInjection\DLLInjectionLinkedIn\Debug\DllInjectorAsDll.lib и объект C:\Users\Пользователь\Downloads\DLLInjection\DLLInjectionLinkedIn\Debug\DllInjectorAsDll.exp
+  DllInjectorAsDll.vcxproj -> C:\Users\Пользователь\Downloads\DLLInjection\DLLInjectionLinkedIn\Debug\DllInjectorAsDll.dll
